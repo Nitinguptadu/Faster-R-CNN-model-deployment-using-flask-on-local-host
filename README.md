@@ -7,3 +7,6 @@ and put it in model dir
 
 dowload the config file https://drive.google.com/open?id=1Vo9c1jbMnSDDOdRSrYAOSreczWHCFq3T
 and put it in model dir 
+
+
+after putting model and config file in model dir use visual studio and run the server.py in it's terminal to run it on local host using flask
