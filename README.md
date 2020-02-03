@@ -28,6 +28,6 @@ use these steps to run it local and predicted image will be saved on your local 
 
 this code is written by three person 
 
-Shanur Rahman https://www.linkedin.com/in/shanur-rahman-37115387/ 
-Nitin Gupta 
+Shanur Rahman https://www.linkedin.com/in/shanur-rahman-37115387/ ,
+Nitin Gupta and 
 Khusharg 
