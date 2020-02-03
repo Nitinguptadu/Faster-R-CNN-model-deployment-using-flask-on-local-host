@@ -10,3 +10,16 @@ and put it in model dir
 
 
 after putting model and config file in model dir use visual studio and run the server.py in it's terminal to run it on local host using flask
+
+
+![Screenshot from 2020-02-03 19-22-35](https://user-images.githubusercontent.com/45600643/73658686-c9b27a80-46ba-11ea-9f26-1e6394e218f7.png)
+
+
+![Screenshot from 2020-02-03 19-22-48](https://user-images.githubusercontent.com/45600643/73658710-d59e3c80-46ba-11ea-9078-5855244eb7c4.png)
+
+![Screenshot from 2020-02-03 19-23-19](https://user-images.githubusercontent.com/45600643/73658733-e2229500-46ba-11ea-8df8-6d4e38fa11a0.png)
+
+![Screenshot from 2020-02-03 19-23-29](https://user-images.githubusercontent.com/45600643/73658760-ed75c080-46ba-11ea-9096-55643430bfc1.png)
+
+
+
