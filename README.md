@@ -11,6 +11,8 @@ and put it in model dir
 
 after putting model and config file in model dir use visual studio and run the server.py in it's terminal to run it on local host using flask
 
+keras-tensorflow-model-deployment.ipynb is aws sagemaker tutorial for deploy pretrain model which is trained on local machine using gpu gtx 1650  
+
 
 ![Screenshot from 2020-02-03 19-22-35](https://user-images.githubusercontent.com/45600643/73658686-c9b27a80-46ba-11ea-9f26-1e6394e218f7.png)
 
