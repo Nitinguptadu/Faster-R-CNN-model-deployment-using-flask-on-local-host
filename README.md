@@ -23,7 +23,7 @@ after putting model and config file in model dir use visual studio and run the s
 
 
 
-use these steps to run it local and predicted image will be saved on your local machine automatically 
+use these steps to run it local and predicted image will be saved on your local machine uploads dir automatically 
 
 
 this code is written by three person 
